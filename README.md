@@ -1,4 +1,5 @@
-# Google I/O 18 Highlights 
+
+<img src="https://cdn.vox-cdn.com/thumbor/0XCu627NRPF2DQIxmWBEvHt2IE0=/0x0:3000x2120/1200x800/filters:focal(1260x820:1740x1300)/cdn.vox-cdn.com/uploads/chorus_image/image/59655321/956079008.jpg.1525721488.jpg" width="100%">
 
 Amid tight competition, Google has set its sights on becoming the world's biggest artificial intelligence (AI) company and its annual developer conference has proved this. At the opening of Google I/O 2018 the firm outlined its software plans for the next year and almost every aspect included AI.
 
@@ -10,7 +11,7 @@ So what did we see at Google I/O? Here are all the major announcements from the 
 
 ### ANDROID P DEVELOPER PREVIEW 2
 
-<img src="https://icdn2.digitaltrends.com/image/android-p-720x720.jpg" width="100%">
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/apps-png-1525803273.png?crop=1xw:1xh;center,top&resize=768:*" width="100%">
 
 The new version of Android is normally the star of the show at Google I/O, and this year was no different. Google showed off the second developer preview of Android P, which comes with a number of awesome new features that should make any Android user happy.
 
